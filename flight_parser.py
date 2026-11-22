@@ -17,7 +17,7 @@ from query import run_queries
 # TODO: fill in your details: plain ASCII, no spaces or underscores.
 STUDENT_ID = "251AD035"
 FIRST_NAME = "Vishrudh"
-LAST_NAME = "Karunanithi"
+LAST_NAME = "PattukkottaiKarunanithi"
 
 
 def main(argv: list[str] | None = None) -> int:
